@@ -1,5 +1,5 @@
 # Wheat-Quality-Analysis-using-AI-Integrated-Hardware
-# Wheat Quality Analysis Device 
+## Wheat Quality Analysis Device 
 
 An embedded AI-based system for real-time, image-based wheat quality assessment, developed as a scalable and field-deployable hardware-software solution.
 
